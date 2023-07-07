@@ -27,4 +27,11 @@ npm run develop
 ```
 npm run start
 ```
+
+## `Additional Features to work on`
+- migrate from mysql to postgresql so I can get backend deployed on Render
+- incorporate coupons with stripe
+
+  
 [strapi docs](https://docs.strapi.io/)
+
