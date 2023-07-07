@@ -2,13 +2,13 @@
 
 [Caro Hive Front End Repo](https://github.com/An-Be/CaroHive-frontend)
 
-### Technologies
+### 🤖 Technologies
 - Strapi
 - mysql/node
 - Stripe
 
 
-## `Set up`
+## ⚙️ `Set up`
 - first make sure you are in correct directory
 
 ```
@@ -28,7 +28,7 @@ npm run develop
 npm run start
 ```
 
-## `Additional Features to work on`
+## 👩‍💻 `Additional Features to work on`
 - migrate from mysql to postgresql so I can get backend deployed on Render
 - incorporate coupons with stripe
 
